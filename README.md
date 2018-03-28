@@ -88,7 +88,7 @@ To easily find which hostnames/IPs are on your network, use
 python3 cluster.py list
 ```
 
-Startup the Pi cluster using `python3.py cluster start`. You can check the status with `python3 cluster.py status`
+Startup the Pi cluster using `python3 cluster.py start`. You can check the status with `python3 cluster.py status`
 
 ## 3. Classify locations using Pi cluster
 
